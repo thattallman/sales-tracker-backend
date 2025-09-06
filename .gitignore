@@ -26,7 +26,8 @@ coverage/
 .idea/
 .DS_Store
 
-
+# Environment files
+.env
 
 # OS-specific files
 Thumbs.db
